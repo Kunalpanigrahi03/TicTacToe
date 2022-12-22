@@ -23,6 +23,7 @@ int counter = 0;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        System.out.println("Ab smjh aa rha hai");
 
         init();
 
