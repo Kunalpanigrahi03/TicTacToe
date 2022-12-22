@@ -23,7 +23,8 @@ int counter = 0;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        System.out.println("This is called Bakchodi");
+        System.out.println("Experimental me ho rha hai kya?");
         init();
 
 
@@ -130,4 +131,6 @@ int counter = 0;
 
 
 
+
 }
+
